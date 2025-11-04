@@ -1,0 +1,16 @@
+Question,Option1,Option2,Option3,Option4,CorrectAnswerIndex
+HTML代表什麼？,Hyper Trainer Marking Language,Hyper Text Markup Language,Hyperlinks and Text Markup Language,Home Tool Markup Language,1
+哪種語言用於設計網頁樣式？,HTML,JQuery,CSS,XML,2
+以下哪個不是JavaScript框架？,Python,React,Angular,Vue,0
+引用名為 "xxx.js" 的外部腳本的正確語法是什麼？,<script href="xxx.js">,<script name="xxx.js">,<script src="xxx.js">,<script file="xxx.js">,2
+如何在警告框中寫出 "Hello World"？,msgBox("Hello World");,alertBox("Hello World");,msg("Hello World");,alert("Hello World");,3
+在JavaScript中，用於單行註解的符號是什麼？,//,<!-- -->,#,/* */,0
+在JavaScript中，'var' 是什麼的縮寫？,Variant,Variable,Varying,Vera,1
+哪家公司開發了JavaScript？,Microsoft,Google,Netscape,Apple,2
+在JavaScript中，`2 + "2"` 的結果是什麼？,4,"22","4",Error,1
+CSS代表什麼？,Creative Style Sheets,Computer Style Sheets,Cascading Style Sheets,Colorful Style Sheets,2
+在CSS中，哪個屬性用於更改背景顏色？,color,bgcolor,background-color,background,2
+創建超連結的正確HTML是什麼？,<a url="http://www.p5js.org">p5.js</a>,<a>http://www.p5js.org</a>,<a href="http://www.p5js.org">p5.js</a>,<link src="http://www.p5js.org">p5.js</link>,2
+以下哪個是程式設計範式？,物件導向,敏捷開發,瀑布模型,Scrum,0
+API代表什麼？,應用程式介面,Apple Pie Is-good,應用程式協定介面,自動化程式介面,0
+在Python中，如何印出 "Hello, World!"？,console.log("Hello, World!");,echo "Hello, World!";,System.out.println("Hello, World!");,print("Hello, World!"),3
